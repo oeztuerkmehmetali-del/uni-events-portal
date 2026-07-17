@@ -1,1 +1,1 @@
-https://api.trycloudflare.com
+https://production-effective-technical-pointer.trycloudflare.com
